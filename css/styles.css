@@ -16,3 +16,9 @@ h1{
 h3{
   color: #1572A1;
 }
+input{
+  background-color: #EAF6F6;
+}
+textarea{
+  background-color: #EAF6F6;
+}
